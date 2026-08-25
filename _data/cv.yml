@@ -62,25 +62,25 @@ cv:
         end_date: Present
         # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
-          Course: Human Factors in Cybersecurity 
+            - "Course: Human Factors in Cybersecurity" 
             - Lead selected lectures on human-centered cybersecurity topics, including usable security, privacy, authentication, phishing, and secure software development.
             - Mentor student research projects that apply large language models (LLMs) to real-world cybersecurity and human-factor challenges. 
             - Support course instruction, student discussions, assignments, and project evaluation.
 
-          Course: Software Security 
+            - "Course: Software Security" 
             - Assisted in teaching software security concepts and supported student learning through hands-on exercises and assessments.
 
-          Course: Introduction to Programming with Java 
+            - "Course: Introduction to Programming with Java" 
             - Guided students in computational thinking, structured programming, and problem-solving using Java. 
             - Tutored students on core programming concepts including conditional statements, loop-based iteration, and data structures like arrays.
             - Supported student learning by providing hands-on exercises and assessments.
 
-          Course: Circuits and Electro-Mechanical Components
+            - "Course: Circuits and Electro-Mechanical Components"
             - Assisted in teaching circuits and electronic fundamentals.
             - Guided students in hands-on labs and projects, including designing, constructing, and testing circuits using Arduino.
             - Helped students develop skills in the analysis, design, and testing of circuits, sensors, and microcontrollers.
 
-          Course: Computer Organization 
+            - "Course: Computer Organization" 
             - Assisted in teaching computer organization fundamentals, including computer components, digital logic, and processing elements.
             - Guided students in understanding CPU communication methods, processor and memory architecture, and RISC-V instruction set architecture.
             - Introduced performance-enhancing techniques like pipelining, cache systems, and parallel processing.
@@ -91,7 +91,7 @@ cv:
         start_date: 2021
         end_date: 2022
         highlights:
-          - Course: Data Science Engineering with Python
+          - "Course: Data Science Engineering with Python"
           - Delivered assessments and tutorials on data cleaning, restructuring, analytics best practices, and traditional machine learning for graduate students.
           - Tutored 100+ graduate students in data analysis and Python scripting; aided professor with course content evaluation and design.
           - Mentored students on individual assignments and group projects, helping improve grades by at least 10%.
