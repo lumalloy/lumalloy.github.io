@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Computer Science at the University of Tennessee, Knoxville (UTK), under the supervision of [Dr. Doowon Kim](https://doowon.github.io/). Before that, I received my M.S. in Information Systems from [Northeastern University](https://www.utk.edu/) and my B.S. in Business from [Indiana University Bloomington](https://bloomington.iu.edu/).
+I am a Ph.D. student in Computer Science at the [University of Tennessee, Knoxville (UTK)](https://eecs.utk.edu/), under the supervision of [Dr. Doowon Kim](https://doowon.github.io/). Before that, I received my M.S. in Information Systems from [Northeastern University](https://www.utk.edu/) and my B.S. in Business from [Indiana University Bloomington](https://bloomington.iu.edu/).
 
 My research focuses on usable security and Human-Computer Interaction (HCI). I study how people interact with security and privacy technologies, with current interests in AI/LLM security, phishing, and software security. My work involves mixed-methods user studies and empirical data analysis to understand human behavior, identify usability and security challenges, and inform the design of more effective security systems.
 
