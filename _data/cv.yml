@@ -91,7 +91,7 @@ cv:
         start_date: 2021
         end_date: 2022
         highlights:
-          Course: Data Science Engineering with Python
+          - Course: Data Science Engineering with Python
           - Delivered assessments and tutorials on data cleaning, restructuring, analytics best practices, and traditional machine learning for graduate students.
           - Tutored 100+ graduate students in data analysis and Python scripting; aided professor with course content evaluation and design.
           - Mentored students on individual assignments and group projects, helping improve grades by at least 10%.
