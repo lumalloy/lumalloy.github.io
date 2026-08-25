@@ -6,7 +6,7 @@ subtitle: Ph.D. Student in Computer Science at the University of Tennessee, Knox
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: lm_profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Min H. Kao Department of Electrical Engineering and Computer Science</p>
