@@ -7,8 +7,6 @@ category: ongoing
 related_publications: false
 ---
 
-## Phishing Website Accessibility & Usability
-
 This ongoing research investigates how visual accessibility and usability considerations interact with phishing detection.
 
 The project aims to better understand accessibility-related challenges in security interfaces and inform the design of visual cues that are both accessible and security-conscious.
