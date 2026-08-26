@@ -174,10 +174,14 @@ cv:
         summary: "We present human-perceptible adversarial attacks that exploit the gap between human perception and LLM-based content moderation."
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming
+        keywords: "Python, SQL, MySQL, PostgreSQL, R, Java, Power Apps, SAP ERP, Jupyter Notebook, Visio, Stata, Parallel Machine Learning"
+
+      - name: Analytics
+        keywords: "Excel, Power BI, Tableau, Google Analytics, SPSS Modeler, SQL Server, SSIS, Hive, IBM DB2, Microsoft Access, ETL, A/B Testing, Google Charts"
+
+      - name: UI/UX Design
+        keywords: "Qualtrics, HTML, CSS, JavaScript, Angular, Axure RP, Figma, Moqups, Balsamiq Mockups"
 
     Languages:
       - name: Chinese (Mandarin)
@@ -196,14 +200,14 @@ cv:
         # icon: fa-solid fa-location-dot
 
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    # Projects:
+    #   - name: Quantum Computing
+    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    #     highlights:
+    #       - Quantum Teleportation
+    #       - Quantum Cryptography
+    #     start_date: 2018-01-01
+    #     end_date: 2018-01-01
 
     # References:
     #   - name: Professor John Doe
