@@ -5,11 +5,10 @@ permalink: /research/
 description: Selected research projects in usable security, human-centered cybersecurity, and AI security.
 nav: true
 nav_order: 3
-display_categories: [Ongoing]
+display_categories: [Published, Ongoing]
 horizontal: false
 ---
 <!-- pages/projects.md -->
-
 
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
