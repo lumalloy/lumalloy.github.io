@@ -2,10 +2,10 @@
 layout: page
 title: Research
 permalink: /research/
-description: A growing collection of your cool projects.
+description: Selected research projects in usable security, human-centered cybersecurity, and AI security.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [published, ongoing]
 horizontal: false
 ---
 
