@@ -3,7 +3,7 @@ layout: page
 title: Software Bill of Materials (SBOM) Analysis
 description: Evaluating SBOM tools for software supply chain transparency and security.
 importance: 3
-category: ongoing
+category: Ongoing
 related_publications: false
 ---
 This project investigates the effectiveness and usability of Software Bill of Materials (SBOM) tools in supporting software supply chain transparency and security.
