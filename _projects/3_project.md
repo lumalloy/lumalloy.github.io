@@ -3,7 +3,7 @@ layout: page
 title: Security in Human–AI Software Teams
 description: Exploring emerging security and trust challenges in human–AI collaboration.
 importance: 4
-category: Ongoing
+category: Research Proposal
 related_publications: false
 ---
 This research explores emerging security and trust challenges in collaborative environments where humans work alongside AI agents.
