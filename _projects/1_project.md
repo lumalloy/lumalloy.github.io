@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Phishing Website Accessibility & Usability
 description: Investigating the intersection of visual accessibility, usability, and phishing detection.
@@ -10,7 +10,7 @@ This ongoing research investigates how visual accessibility and usability consid
 
 The project aims to better understand accessibility-related challenges in security interfaces and inform the design of visual cues that are both accessible and security-conscious.
 
-**Status:** Ongoing Research
+**Status:** Ongoing Research -->
 
 <!-- <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
